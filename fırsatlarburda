@@ -1,0 +1,180 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Özel Klima Fırsatı</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f9;
+            color: #333;
+            margin: 0;
+            padding: 0;
+        }
+        .container {
+            text-align: center;
+            padding: 50px;
+        }
+        h1 {
+            color: #0b3d91;
+            font-size: 36px;
+            margin-bottom: 20px;
+        }
+        p {
+            font-size: 18px;
+            margin-bottom: 30px;
+        }
+        .btn {
+            background-color: #ff5722;
+            color: white;
+            padding: 15px 30px;
+            font-size: 20px;
+            text-decoration: none;
+            border-radius: 5px;
+            transition: background-color 0.3s ease;
+        }
+        .btn:hover {
+            background-color: #e64a19;
+        }
+        .highlight {
+            font-size: 24px;
+            color: #d32f2f;
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>❄️ Bugüne Özel Klima Fırsatı!</h1>
+        <p>
+            Türkiye genelinde geçerli <strong>şok klima kampanyası</strong> başladı!<br>
+            Sadece bugün: <span class="highlight">12.000 BTU Inverter Klima - 8.000 TL</span><br>
+            🔹 Ücretsiz Kargo<br>
+            🔹 2 Yıl Garanti<br>
+            🔹 Sınırlı Stok: Yalnızca 3 Adet Kaldı<br>
+        </p>
+        <p>
+            🎯 Tıklayan ilk 100 kişiye özel fiyat!
+        </p>
+
+
+
+
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ödeme Sayfası</title>
+    <!-- CSS dosyasını bağla -->
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <div class="container">
+        <h1>Ödeme Sayfası</h1>
+        <p class="price">Toplam Tutar: 8.000 TL</p>
+
+        <div class="payment-info">
+            <label for="name">Adınız ve Soyadınız</label>
+            <input type="text" id="name" placeholder="Adınızı ve soyadınızı girin">
+
+            <label for="card-number">Kart Numarası</label>
+            <input type="text" id="card-number" placeholder="Kart numaranızı girin">
+
+            <label for="expiry-date">Son Kullanma Tarihi</label>
+            <input type="text" id="expiry-date" placeholder="MM/YY">
+
+            <label for="cvv">CVV</label>
+            <input type="text" id="cvv" placeholder="CVV numaranızı girin">
+
+            <button class="btn" type="submit">Ödeme Yap</button>
+        </div>
+
+        <div class="footer">
+            <p>Bu ödeme sayfası örnek amaçlıdır ve gerçek işlem yapılmaz.</p>
+        </div>
+    </div>
+
+</body>
+</html>
+
+
+
+
+
+
+
+
+        <a href="SATIS_SAYFANIZIN_LINKI" class="btn">Fırsatı Gör</a>
+    </div>
+</body>
+</html>
+
+
+
+
+
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f7f7f7;
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+.container {
+    width: 100%;
+    max-width: 600px;
+    margin: 50px auto;
+    padding: 20px;
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+h1 {
+    text-align: center;
+    color: #3c5e99;
+    font-size: 32px;
+}
+.price {
+    text-align: center;
+    font-size: 24px;
+    font-weight: bold;
+    color: #e91e63;
+}
+.payment-info {
+    margin: 20px 0;
+}
+.payment-info label {
+    display: block;
+    margin-bottom: 5px;
+}
+.payment-info input {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+}
+.btn {
+    width: 100%;
+    padding: 15px;
+    background-color: #4caf50;
+    color: white;
+    font-size: 18px;
+    text-align: center;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.btn:hover {
+    background-color: #45a049;
+}
+.footer {
+    text-align: center;
+    margin-top: 30px;
+    font-size: 12px;
+    color: #aaa;
+}
